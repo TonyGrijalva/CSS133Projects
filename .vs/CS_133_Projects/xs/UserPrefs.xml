@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{128496A9-A19F-4A9C-BF50-C152E13D5D41}|Default">
+  <MonoDevelop.Ide.ItemProperties.CS__133__Projects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS_133_Projects/module3.cs">
+    <Files>
+      <File FileName="CS_133_Projects/Program.cs" Line="50" Column="1" />
+      <File FileName="CS_133_Projects/GenericClasses.cs" Line="1" Column="2" />
+      <File FileName="CS_133_Projects/module3.cs" Line="21" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CS_133_Projects" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

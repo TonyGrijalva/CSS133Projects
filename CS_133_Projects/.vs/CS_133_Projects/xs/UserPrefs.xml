@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C3A28143-3F09-47F9-A3CB-BB6404B61EAB}|Default">
+  <MonoDevelop.Ide.ItemProperties.CS__133__Projects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS_133_Projects/UserRunner.cs">
+    <Files>
+      <File FileName="CS_133_Projects/Program.cs" Line="20" Column="1" IsPinned="True" />
+      <File FileName="CS_133_Projects/Models/ToyType.cs" Line="1" Column="1" />
+      <File FileName="CS_133_Projects/GenericClasses/MyGenericClass.cs" Line="1" Column="1" />
+      <File FileName="CS_133_Projects/MyClasses/Cake.cs" Line="1" Column="1" />
+      <File FileName="CS_133_Projects/User.cs" Line="17" Column="1" />
+      <File FileName="CS_133_Projects/UserRunner.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CS_133_Projects" expanded="True">
+            <Node name="CS_133_Projects" expanded="True">
+              <Node name="GenericClasses" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="MyClasses" expanded="True" />
+              <Node name="UserRunner.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
