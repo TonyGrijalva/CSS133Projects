@@ -1,0 +1,12 @@
+/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/obj/Debug/netcoreapp3.1/MyInstagram.csprojAssemblyReference.cache
+/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/obj/Debug/netcoreapp3.1/MyInstagram.AssemblyInfoInputs.cache
+/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/obj/Debug/netcoreapp3.1/MyInstagram.AssemblyInfo.cs
+/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/obj/Debug/netcoreapp3.1/MyInstagram.csproj.CoreCompileInputs.cache
+/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/bin/Debug/netcoreapp3.1/MyInstagram.deps.json
+/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/bin/Debug/netcoreapp3.1/MyInstagram.runtimeconfig.json
+/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/bin/Debug/netcoreapp3.1/MyInstagram.runtimeconfig.dev.json
+/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/bin/Debug/netcoreapp3.1/MyInstagram.dll
+/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/bin/Debug/netcoreapp3.1/MyInstagram.pdb
+/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/obj/Debug/netcoreapp3.1/MyInstagram.dll
+/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/obj/Debug/netcoreapp3.1/MyInstagram.pdb
+/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/obj/Debug/netcoreapp3.1/MyInstagram.genruntimeconfig.cache

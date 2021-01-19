@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/CS_133_Projects.csproj": {}
+    "/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/MyInstagram.csproj": {}
   },
   "projects": {
-    "/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/CS_133_Projects.csproj": {
+    "/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/MyInstagram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/CS_133_Projects.csproj",
-        "projectName": "CS_133_Projects",
-        "projectPath": "/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/CS_133_Projects.csproj",
+        "projectUniqueName": "/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/MyInstagram.csproj",
+        "projectName": "MyInstagram",
+        "projectPath": "/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/MyInstagram.csproj",
         "packagesPath": "/Users/marcosgrijalva/.nuget/packages/",
-        "outputPath": "/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/obj/",
+        "outputPath": "/Users/marcosgrijalva/Projects/MyInstagram/MyInstagram/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marcosgrijalva/.config/NuGet/NuGet.Config"

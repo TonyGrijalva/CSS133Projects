@@ -10,3 +10,15 @@
 /Users/marcosgrijalva/Projects/CS_133_Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.dll
 /Users/marcosgrijalva/Projects/CS_133_Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.pdb
 /Users/marcosgrijalva/Projects/CS_133_Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.genruntimeconfig.cache
+/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.csprojAssemblyReference.cache
+/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.AssemblyInfoInputs.cache
+/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.AssemblyInfo.cs
+/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.csproj.CoreCompileInputs.cache
+/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.dll
+/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.pdb
+/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/bin/Debug/netcoreapp3.1/CS_133_Projects.deps.json
+/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/bin/Debug/netcoreapp3.1/CS_133_Projects.runtimeconfig.json
+/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/bin/Debug/netcoreapp3.1/CS_133_Projects.runtimeconfig.dev.json
+/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/bin/Debug/netcoreapp3.1/CS_133_Projects.dll
+/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/bin/Debug/netcoreapp3.1/CS_133_Projects.pdb
+/Users/marcosgrijalva/Desktop/CS_133_Projects/CS_133_Projects/CS_133_Projects/obj/Debug/netcoreapp3.1/CS_133_Projects.genruntimeconfig.cache
