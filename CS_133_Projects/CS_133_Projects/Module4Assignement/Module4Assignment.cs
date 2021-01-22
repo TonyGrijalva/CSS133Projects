@@ -1,16 +1,19 @@
 ﻿using System;
-namespace CS_133_Projects.Module_3
+namespace CS_133_Projects.Module_4
 {
-    public class Module_3_Assignment
+    public class Program
+
     {
-        public Module_3_Assignment()
+        public void Main()
         {
-            Cake myClass = new Cake();
-            myClass.flavor = "Vanilla";
+            Cake myCake = new Cake();
+            myCake.Type = "Wedding Cake";
+            myCake.AddFlavor<string>("Vanilla");
 
 
-            Cake myClass2 = new Cake();
-            myClass2.flavor = "Chocolate";
+            Cake myCake2 = new Cake();
+            myCake2.Type = "Party Cake";
+            myCake2.AddFlavor<string>("Chocolate");
         }
     }
 }
@@ -18,9 +21,15 @@ namespace CS_133_Projects.Module_3
 public class Cake
 {
     public string Flavor { get; set; }
-
-    public void ThisIsAMethod<T>(T myParameter)
+    public string Type { get; set; }
+    
+    public void AddFlavor<T>(T myParameter)
     {
         this.Flavor = myParameter.ToString();
+        {
+            Console.WriteLine("My first parameter is: " + myParameter);
+        }
+        
+       
     }
 }
