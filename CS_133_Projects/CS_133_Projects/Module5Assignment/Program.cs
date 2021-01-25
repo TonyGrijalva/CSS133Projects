@@ -8,39 +8,23 @@ namespace CS_133_Projects
         static void Main()
         {
 
-            Stack<string> webpage = new Stack<string>();
+            browser myBrowser = new browser();
+
+            myBrowser.AddPage("www.SULearning.com");
+            myBrowser.AddPage("www.google.com");
+            myBrowser.AddPage("www.facebook.com");
+
+            myBrowser.PrintPages();
+            myBrowser.UndoPage();
+            myBrowser.PrintPages();
 
 
-            webpage.Push("www.SULearning.com");
-
-            foreach (var item in webpage)
-            {
-                Console.WriteLine(item);
-            }
-
-            string previousPage = webpage.Peek();
-
-            Console.WriteLine(previousPage);
-
-            foreach (var item in webpage)
-            {
-                Console.WriteLine(item);
-            }
-
-            string forwardOnePage = webpage.Pop();
-
-            Console.WriteLine(forwardOnePage);
-
-            foreach (var item in webpage)
-            {
-                Console.WriteLine(item);
-            }
-
+         
 
         }
     }
 
-    public class Word
+    public class browser
     {
         private Stack<string> PageStack = new Stack<string>();
 
@@ -51,7 +35,7 @@ namespace CS_133_Projects
             PageStack.Push(newPage);
         }
 
-        public void PrintPage()
+        public void PrintPages()
         {
             foreach (var item in PageStack)
             {
