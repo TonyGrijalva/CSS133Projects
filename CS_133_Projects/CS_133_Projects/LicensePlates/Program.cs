@@ -64,7 +64,7 @@ public class Vehicle
     {
 
         Vehicle CompareLicensePlate = obj as Vehicle;
-        return this.LicensePlate.Equals(obj);
+        return this.LicensePlate.Equals(CompareLicensePlate.LicensePlate);
     }
 
     public override int GetHashCode()
