@@ -1,0 +1,12 @@
+/Users/marcosgrijalva/Projects/CS_133_Projects/LicensePlates/LicensePlates/bin/Debug/netcoreapp3.1/LicensePlates.deps.json
+/Users/marcosgrijalva/Projects/CS_133_Projects/LicensePlates/LicensePlates/bin/Debug/netcoreapp3.1/LicensePlates.runtimeconfig.json
+/Users/marcosgrijalva/Projects/CS_133_Projects/LicensePlates/LicensePlates/bin/Debug/netcoreapp3.1/LicensePlates.runtimeconfig.dev.json
+/Users/marcosgrijalva/Projects/CS_133_Projects/LicensePlates/LicensePlates/bin/Debug/netcoreapp3.1/LicensePlates.dll
+/Users/marcosgrijalva/Projects/CS_133_Projects/LicensePlates/LicensePlates/bin/Debug/netcoreapp3.1/LicensePlates.pdb
+/Users/marcosgrijalva/Projects/CS_133_Projects/LicensePlates/LicensePlates/obj/Debug/netcoreapp3.1/LicensePlates.csprojAssemblyReference.cache
+/Users/marcosgrijalva/Projects/CS_133_Projects/LicensePlates/LicensePlates/obj/Debug/netcoreapp3.1/LicensePlates.AssemblyInfoInputs.cache
+/Users/marcosgrijalva/Projects/CS_133_Projects/LicensePlates/LicensePlates/obj/Debug/netcoreapp3.1/LicensePlates.AssemblyInfo.cs
+/Users/marcosgrijalva/Projects/CS_133_Projects/LicensePlates/LicensePlates/obj/Debug/netcoreapp3.1/LicensePlates.csproj.CoreCompileInputs.cache
+/Users/marcosgrijalva/Projects/CS_133_Projects/LicensePlates/LicensePlates/obj/Debug/netcoreapp3.1/LicensePlates.dll
+/Users/marcosgrijalva/Projects/CS_133_Projects/LicensePlates/LicensePlates/obj/Debug/netcoreapp3.1/LicensePlates.pdb
+/Users/marcosgrijalva/Projects/CS_133_Projects/LicensePlates/LicensePlates/obj/Debug/netcoreapp3.1/LicensePlates.genruntimeconfig.cache

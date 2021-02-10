@@ -72,3 +72,4 @@ public class Vehicle
         return this.LicensePlate.GetHashCode();
     }
 }
+

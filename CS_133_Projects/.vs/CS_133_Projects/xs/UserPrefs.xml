@@ -1,24 +1,11 @@
 ﻿<Properties StartupConfiguration="{C3A28143-3F09-47F9-A3CB-BB6404B61EAB}|Default">
   <MonoDevelop.Ide.ItemProperties.CS__133__Projects PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CS_133_Projects/Models/ToyType.cs">
-    <Files>
-      <File FileName="CS_133_Projects/Models/ToyType.cs" Line="1" Column="1" />
-      <File FileName="CS_133_Projects/GenericClasses/MyGenericClass.cs" />
-      <File FileName="CS_133_Projects/MyClasses/Cake.cs" />
-      <File FileName="CS_133_Projects/MultiplicationTable/MultiplicationTable.cs" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CS_133_Projects" expanded="True">
-            <Node name="CS_133_Projects" expanded="True">
-              <Node name="GenericClasses" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="ToyType.cs" selected="True" />
-              </Node>
-              <Node name="Module2" expanded="True" />
-              <Node name="MultiplicationTable" expanded="True" />
-            </Node>
+          <Node name="CS_133_Projects" expanded="True" selected="True">
+            <Node name="CS_133_Projects" expanded="True" />
           </Node>
         </State>
       </Pad>
